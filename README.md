@@ -1,6 +1,6 @@
 <!-- ===================== TOP IMAGE ===================== -->
 <p align="center">
-  <img src="https://s5.ezgif.com/tmp/ezgif-54cbc2d79f217df8.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);" />
+  <img src="https://github.com/Lmda-Lhafi/Lmda-Lhafi/blob/57d142a80af210aa44f869b142758de32124bef1/assets/Header.gif" width="100%" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);" />
 </p>
 
 <h1 align="center" style="margin-top: 20px;">EL HANAFI Aymane</h1>
@@ -94,5 +94,5 @@ that stay boring, predictable, and reliable in production.
 
 <!-- ===================== BOTTOM IMAGE PLACEHOLDER ===================== -->
 <p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2b1b6a779cd53180.gif" width="100%" />
+  <img src="https://github.com/Lmda-Lhafi/Lmda-Lhafi/blob/57d142a80af210aa44f869b142758de32124bef1/assets/Footer.gif" width="100%" />
 </p>
